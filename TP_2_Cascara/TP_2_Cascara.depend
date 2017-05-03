@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1493341253 source:/home/alumno/Escritorio/TP_2_Cascara/F_Persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493337183 /home/alumno/Escritorio/TP_2_Cascara/funciones.h
+
+1493336408 source:/home/alumno/Escritorio/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493836472 source:c:\users\carlaeliana\desktop\tp_2_cascara\f_persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493841161 c:\users\carlaeliana\desktop\tp_2_cascara\funciones.h
+
+1493841161 source:c:\users\carlaeliana\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493841161 source:c:\users\carlaeliana\desktop\tp_2_cascara\f_directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493841348 source:c:\users\carlaeliana\desktop\tp_2_cascara\f_peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
